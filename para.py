@@ -1,3 +1,6 @@
+# houghcircles değerleri değiştirilerek daha kesin sonuçlar oluşturulabilir
+
+
 import cv2
 import numpy as np
 
